@@ -1,0 +1,16 @@
+# Binaries & Executables
+*.exe
+*.pdb
+*.dll
+*.so
+*.dylib
+
+# Build & output directories
+out/
+target/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
