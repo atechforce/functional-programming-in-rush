@@ -1,4 +1,4 @@
-v bdef decode_fibonacci(code: str) -> int:
+def decode_fibonacci(code: str) -> int:
     """
     Mendecode string biner Fibonacci tunggal (misal: '001011') menjadi bilangan bulat.
     """
